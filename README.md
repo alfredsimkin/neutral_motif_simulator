@@ -1,5 +1,14 @@
-This folder should contain all scripts necessary to repeat the results of the
-accompanying paper. Some of the scripts stand alone, while others are driver
+# Neutral Motif Simulator
+
+This repository was designed to accompany the paper "Evolutionary dynamics of
+microRNA target sites across vertebrate evolution" published in Plos genetics
+(PMID 32012152). The paper was published in 2020, but makes reference to an ftp
+link (ftp://www.alfredsimkin.net/neutral_motif_simulator) that is no longer
+active due to the deprecation of ftp links on most modern internet browsers.
+This repository replaces the nonfunctional ftp link.
+
+This repository should contain all scripts necessary to repeat the results of
+the accompanying paper. Some of the scripts stand alone, while others are driver
 scripts that call on a large number of subsidiary scripts to automate an
 analysis pipeline. For the most part, scripts have been described in detail at
 the header of each script. For comments or questions, please send an email to
